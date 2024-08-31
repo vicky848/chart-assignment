@@ -1,0 +1,16 @@
+.linechart{
+    background-color: #ffffff;
+     height:440px;
+     width: 800px;
+   
+    box-shadow: 2px 2px 3px #888888;
+}
+.line-chart-heading{
+    color: #1b1b1b;
+    font-size: 17px;
+    font-family: sans-serif;
+    text-align: left;
+    padding-top: 20px;
+    
+}
+

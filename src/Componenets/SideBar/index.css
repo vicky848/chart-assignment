@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.sidebar{
+    width: 200px;
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 2px 2px 3px #888888;
+    margin-bottom: 0px
+    
+    
+   
+
+}
+
+.list-container{
+    list-style-type: none;
+    padding: 0px;
+   
+}
+
+.item{
+    padding: 10px 0;
+    cursor: pointer;
+    color: rgb(165, 152, 152);
+    font-family: sans-serif;
+    margin-right: 180px;
+}
+.dashboard{
+    color: rgba(170, 16, 170, 0.808);
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: rgb(245, 194, 218);
+    height: 32px;
+   width: 200px;
+   border-radius: 8px;
+   padding-top: 10px;
+   
+ 
+}
+.dash{
+    margin-right: 180px;
+} 

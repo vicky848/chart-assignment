@@ -1,0 +1,13 @@
+
+
+.dashboard-container{
+    background-color: rgb(216, 219, 223);
+    height: 70vh;
+    display: flex;
+   
+  
+
+}
+.line-components{
+    margin: 10px;
+}

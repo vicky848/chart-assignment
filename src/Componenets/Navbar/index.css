@@ -1,0 +1,19 @@
+.nav-list{
+    list-style-type: none;
+    background-color: rgb(238, 239, 240);
+    height: 40px;
+    margin-bottom: 0px;
+    width: 100vw;
+    margin-left: 243px;
+}
+.nav-item{
+    color: rgba(170, 16, 170, 0.808);
+    font-family: sans-serif;
+    font-weight: bold;
+   background-color: #ffffff;
+    width: 200px;
+    height: 26px;
+    border-radius: 8px;
+   
+    padding-top: 10px;
+}
